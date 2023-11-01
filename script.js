@@ -144,3 +144,4 @@ const cars = [
 let filterCars = cars.filter(car => car.price >= 40000 && car.price <= 60000 && car.year <= 2019);
 console.log(filterCars);
 
+
